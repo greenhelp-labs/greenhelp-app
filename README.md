@@ -72,7 +72,3 @@ src/
   helpers/
   pages/
 ```
-
-## Status
-
-A V1 (esta aplicação) está funcional. Uma demo aberta para experimentar a plataforma será disponibilizada em breve.
